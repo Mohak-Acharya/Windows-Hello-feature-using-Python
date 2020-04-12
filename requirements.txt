@@ -1,0 +1,9 @@
+opencv-contrib-python
+numpy
+pyautogui
+pillow
+pyttsx3
+ctypes
+pyHook
+win32gui
+logging
